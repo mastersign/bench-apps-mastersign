@@ -25,6 +25,17 @@ DynamicNodes does support custom nodes implemented in C# or VB.NET, a preliminar
 * Register: `false`
 * Launcher: $:Label$
 
+### MapMap
+
+A Windows tool to automatically capture and stitch tiles from online maps in a browser.
+
+* ID: `Mastersign.MapMap`
+* Version: 0.2
+* Url: `https://github.com/mastersign/MapMap/releases/download/v$:Version$/$:ResourceName$`
+* ResourceName: `MapMap.exe`
+* Register: `false`
+* Launcher: $:Label$
+
 ### Yeoman Generator for Markdown Projects
 
 A project generator for Markdown projects with support for building
