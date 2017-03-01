@@ -6,11 +6,15 @@ These apps are creations of Tobias Kiertscher.
 
 ### DynamicNodes
 
-DynamicNodes ist eine grafische Entwicklungsumgebung für Flussgraphen.
+DynamicNodes is a graphical development environment for flow-graphs.
 
-Mit einer wachsenden Knotenbibliothek für die Bildverarbeitung ist DynamicNodes eine sehr leicht verständliche Entwicklungsumgebung, in der Schülern und Studenten verschiedene Operationen der Bildverarbeitung hautnah erleben und kennenlernen können.
+Its node library currently has a focus on image processing with support for 8Bit, 16Bit and 32Bit floating point color values in a variety of color spaces like RGB, HSL, YUV, ... and also calibrated color spaces with gamma curves and profiles like sRGB, Adobe RGB, ...
 
-Die Fähigkeiten von DynamicNodes gehen aber weit über die reine Bildverarbeitung hinaus: Die Intergration der PowerShell in DynamicNodes macht das System z.B. zu einem grafischen Front-End zur Komposition von PowerShell-Skripten. Mit den Knoten für die Netzwerkkommunikation lassen sich DynamicNodes-Instanzen auf mehreren Rechnen vernetzen. Und mit dem generischen C#- bzw. VB.NET-Knoten lassen sich direkt in der Entwicklungsumgebung von DynamicNodes benutzerspezifische Operationen implementieren.
+DynamicNodes has preliminary support for image streams, to process video input from a device or a video file.
+
+DynamicNodes can be used in a productive environment, although it is especially suited to teach students a wide range of concepts in the field of image processing.
+
+DynamicNodes does support custom nodes implemented in C# or VB.NET, a preliminary integration with the PowerShell as scripting environment and a preliminary web server for accessing running graphs and nodes via HTTP.
 
 * ID: `Mastersign.DynamicNodes`
 * Website: <http://dynamicnodes.mastersign.de>
