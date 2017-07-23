@@ -48,3 +48,15 @@ Node.js packages to pre-process the Markdown and post-process the output.
 * PackageName: `generator-mdproc`
 * Website: <https://www.npmjs.com/package/generator-mdproc>
 * Dependencies: `Bench.Yeoman`, `Bench.Gulp`, `Bench.Pandoc`, `Bench.Graphviz`, `Bench.Inkscape`, `Bench.MiKTeX`
+
+### WinMan
+
+Window Manager for Windows 10
+
+* ID: `Mastersign.WinMan`
+* Label: WinMan
+* Version: 1.1.2
+* Url: `https://github.com/mastersign/Mastersign.WinMan/releases/download/v$:Version$/$:ArchiveName$`
+* ArchiveName: `WinMan_v$:Version$.zip`
+* Exe: `WinManGui.exe`
+* Launcher: $:Label$
