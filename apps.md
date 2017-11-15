@@ -18,6 +18,8 @@ DynamicNodes does support custom nodes implemented in C# or VB.NET, a preliminar
 
 * ID: `Mastersign.DynamicNodes`
 * Website: <http://dynamicnodes.mastersign.de>
+* License: Non Commercial
+* LicenseUrl: <http://dynamicnodes.mastersign.de/downloads/index.php#Lizenz>
 * Version: 20121223
 * Url: `http://dynamicnodes.mastersign.de/distribution/$:ArchiveName$`
 * ArchiveName: `DynamicNodes_$:Version$.zip`
@@ -30,6 +32,7 @@ DynamicNodes does support custom nodes implemented in C# or VB.NET, a preliminar
 A Windows tool to automatically capture and stitch tiles from online maps in a browser.
 
 * ID: `Mastersign.MapMap`
+* License: MIT
 * Version: 0.2
 * Url: `https://github.com/mastersign/MapMap/releases/download/v$:Version$/$:ResourceName$`
 * ResourceName: `MapMap.exe`
@@ -46,6 +49,7 @@ Node.js packages to pre-process the Markdown and post-process the output.
 * Label: Yeoman Generator for Markdown Projects
 * Typ: `node-package`
 * PackageName: `generator-mdproc`
+* License: MIT
 * Website: <https://www.npmjs.com/package/generator-mdproc>
 * Dependencies: `Bench.Yeoman`, `Bench.Gulp`, `Bench.Pandoc`, `Bench.Graphviz`, `Bench.Inkscape`, `Bench.MiKTeX`
 
@@ -54,6 +58,7 @@ Node.js packages to pre-process the Markdown and post-process the output.
 Window Manager for Windows 10
 
 * ID: `Mastersign.WinMan`
+* License: MIT
 * Label: WinMan
 * Version: 1.1.2
 * Url: `https://github.com/mastersign/Mastersign.WinMan/releases/download/v$:Version$/$:ArchiveName$`
