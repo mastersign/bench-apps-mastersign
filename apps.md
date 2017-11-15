@@ -65,3 +65,15 @@ Window Manager for Windows 10
 * ArchiveName: `WinMan_v$:Version$.zip`
 * Exe: `WinManGui.exe`
 * Launcher: $:Label$
+
+### HTML Display
+
+Display local HTML file and refresh automatically when file changes.
+
+* ID: `Mastersign.HtmlDisplay`
+* License: MIT
+* Label: HTML Display
+* Version: 1.0.0
+* Url: `https://github.com/mastersign/Mastersign.HtmlDisplay/releases/download/v$:Version$/$:ArchiveName$`
+* ArchiveName: `HTMLDisplay_v$:Version$.zip`
+* Exe: `HTMLDisplay.exe`
