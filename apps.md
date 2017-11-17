@@ -66,6 +66,18 @@ Window Manager for Windows 10
 * Exe: `WinManGui.exe`
 * Launcher: $:Label$
 
+### Display Manager
+
+Record and restore Windows display configurations.
+
+* ID: `Mastersign.DisplayManager`
+* License: MIT
+* Label: Display Manager
+* Version: 1.0.1
+* Url: `https://github.com/mastersign/Mastersign.DisplayManager/releases/download/v$:Version$/$:ArchiveName$`
+* ArchiveName: `DisplayManager_v$:Version$.zip`
+* Exe: `DisplayMan.exe`
+
 ### HTML Display
 
 Display local HTML file and refresh automatically when file changes.
