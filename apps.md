@@ -60,6 +60,7 @@ Window Manager for Windows 10
 * ID: `Mastersign.WinMan`
 * License: MIT
 * Label: WinMan
+* Website: <https://github.com/mastersign/Mastersign.WinMan>
 * Version: 1.1.2
 * Url: `https://github.com/mastersign/Mastersign.WinMan/releases/download/v$:Version$/$:ArchiveName$`
 * ArchiveName: `WinMan_v$:Version$.zip`
@@ -73,6 +74,7 @@ Record and restore Windows display configurations.
 * ID: `Mastersign.DisplayManager`
 * License: MIT
 * Label: Display Manager
+* Website: <https://github.com/mastersign/Mastersign.DisplayManager>
 * Version: 1.0.1
 * Url: `https://github.com/mastersign/Mastersign.DisplayManager/releases/download/v$:Version$/$:ArchiveName$`
 * ArchiveName: `DisplayManager_v$:Version$.zip`
@@ -85,6 +87,7 @@ Display local HTML file and refresh automatically when file changes.
 * ID: `Mastersign.HtmlDisplay`
 * License: MIT
 * Label: HTML Display
+* Website: <https://github.com/mastersign/Mastersign.HtmlDisplay>
 * Version: 1.0.0
 * Url: `https://github.com/mastersign/Mastersign.HtmlDisplay/releases/download/v$:Version$/$:ArchiveName$`
 * ArchiveName: `HTMLDisplay_v$:Version$.zip`
