@@ -67,6 +67,18 @@ Window Manager for Windows 10
 * Exe: `WinManGui.exe`
 * Launcher: $:Label$
 
+### DashOps
+
+Generic Dashboard for executing scripts or shell commands and monitoring services.
+
+* ID: `Mastersign.DashOps`
+* Website: <https://github.com/mastersign/DashOps>
+* Version: 1.2.1
+* Url: `https://github.com/mastersign/DashOps/releases/download/v$:Version$/$:ArchiveName$`
+* ArchiveName: `dashops_v$:Version$.zip`
+* ArchivePath: `release`
+* Launcher: $:Label$
+
 ### Display Manager
 
 Record and restore Windows display configurations.
