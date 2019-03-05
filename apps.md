@@ -104,3 +104,34 @@ Display local HTML file and refresh automatically when file changes.
 * Url: `https://github.com/mastersign/Mastersign.HtmlDisplay/releases/download/v$:Version$/$:ArchiveName$`
 * ArchiveName: `HTMLDisplay_v$:Version$.zip`
 * Exe: `HTMLDisplay.exe`
+
+### Mastersign Data Science
+
+High level helpers for data science in Python with Pandas.
+
+* ID: `Mastersign.DataScience`
+* Typ: `python3-package`
+* PackageName: `mastersign-datascience`
+* Dependencies:
+    + `Bench.Python3.SciPy`
+    + `Bench.Python3.Basemap`
+* License: BSD-3
+* Label: Mastersign Data Science
+* Register: false
+* SetupTestFile: `$:Dir$\lib\site-packages\mastersign\datascience\core\__init__.py`
+
+### Mastersign Data Science Plot for Germany
+
+Plotting on a map of Germany with regions and districts.
+
+* ID: `Mastersign.DataScience.PlotGermany`
+* Dependencies:
+    + `Mastersign.DataScience`
+* Label: Mastersign Data Science Plot for Germany
+* Version: 0.1.0
+* Url: `http://down1.mastersign.de/bench/$:ArchiveName$`
+* ArchiveName: `mastersign_datascience_plot_germany-$:Version$-py3-none-any.whl`
+* ArchiveTyp: custom
+* Dir: `$Bench.Python3:Dir$`
+* Register: false
+* SetupTestFile: `$:Dir$\lib\site-packages\mastersign\datascience\plot_germany\__init__.py`
