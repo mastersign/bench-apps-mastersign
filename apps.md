@@ -126,6 +126,7 @@ Plotting on a map of Germany with regions and districts.
 
 * ID: `Mastersign.DataScience.PlotGermany`
 * Typ: `python3-wheel`
+* PackageName: `mastersign-datascience-plot-germany`
 * Dependencies:
     + `Mastersign.DataScience`
 * Version: 0.1.0
