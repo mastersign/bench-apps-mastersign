@@ -125,13 +125,10 @@ High level helpers for data science in Python with Pandas.
 Plotting on a map of Germany with regions and districts.
 
 * ID: `Mastersign.DataScience.PlotGermany`
+* Typ: `python3-wheel`
 * Dependencies:
     + `Mastersign.DataScience`
-* Label: Mastersign Data Science Plot for Germany
 * Version: 0.1.0
-* Url: `http://down1.mastersign.de/bench/$:ArchiveName$`
-* ArchiveName: `mastersign_datascience_plot_germany-$:Version$-py3-none-any.whl`
-* ArchiveTyp: custom
-* Dir: `$Bench.Python3:Dir$`
-* Register: false
-* SetupTestFile: `$:Dir$\lib\site-packages\mastersign\datascience\plot_germany\__init__.py`
+* Label: Mastersign Data Science Plot for Germany
+* Url: `http://down1.mastersign.de/bench/$:ResourceName$`
+* ResourceName: `mastersign_datascience_plot_germany-$:Version$-py3-none-any.whl`
