@@ -115,6 +115,7 @@ High level helpers for data science in Python with Pandas.
 * Dependencies:
     + `Bench.Python3.SciPy`
     + `Bench.Python3.Basemap`
+    + `Bench.Python3.FastParquet`
 * License: BSD-3
 * Label: Mastersign Data Science
 * Register: false
