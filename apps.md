@@ -130,7 +130,7 @@ Plotting on a map of Germany with regions and districts.
 * PackageName: `mastersign-datascience-plot-germany`
 * Dependencies:
     + `Mastersign.DataScience`
-* Version: 0.1.1
+* Version: 0.2.0
 * Label: Mastersign Data Science Plot for Germany
 * Url: `http://down1.mastersign.de/bench/$:ResourceName$`
 * ResourceName: `mastersign_datascience_plot_germany-$:Version$-py3-none-any.whl`
