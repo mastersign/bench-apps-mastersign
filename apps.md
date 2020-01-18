@@ -105,6 +105,19 @@ Display local HTML file and refresh automatically when file changes.
 * ArchiveName: `HTMLDisplay_v$:Version$.zip`
 * Exe: `HTMLDisplay.exe`
 
+### Boomack Server
+
+* ID: `Mastersign.Boomack`
+* Typ: `node-package`
+* Label: Boomack Server
+
+### Boomack CLI Client
+
+* ID: `Mastersign.BoomackCli`
+* Typ: `node-package`
+* PackageName: `boomack-cli`
+* Label: Boomack CLI Client
+
 ### Mastersign Data Science
 
 High level helpers for data science in Python with Pandas.
