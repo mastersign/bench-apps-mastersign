@@ -110,6 +110,9 @@ Display local HTML file and refresh automatically when file changes.
 * ID: `Mastersign.Boomack`
 * Typ: `node-package`
 * Label: Boomack Server
+* Launcher: $:Label$
+* LauncherIcon: `$:Dir$\node_modules\boomack\client\public\favicon.ico`
+* LauncherExecutable: `$:Dir$\boomack.cmd`
 
 ### Boomack CLI Client
 
