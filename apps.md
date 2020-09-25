@@ -53,6 +53,15 @@ Node.js packages to pre-process the Markdown and post-process the output.
 * Website: <https://www.npmjs.com/package/generator-mdproc>
 * Dependencies: `Bench.Yeoman`, `Bench.Gulp`, `Bench.Pandoc`, `Bench.Graphviz`, `Bench.Inkscape`, `Bench.MiKTeX`
 
+### HTsync
+
+Serve and download complete directories via HTTP.
+
+* ID: `Mastersign.HTsync`
+* Typ: `node-package`
+* PackageName: `htsync`
+* License: MIT
+
 ### WinMan
 
 Window Manager for Windows 10
