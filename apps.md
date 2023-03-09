@@ -130,6 +130,18 @@ Display local HTML file and refresh automatically when file changes.
 * PackageName: `boomack-cli`
 * Label: Boomack Client CLI (NodeJS)
 
+### Boomack Client CLI
+
+* ID: `Mastersign.BoomackClientCli`
+* Label: Boomack Client CLI
+* License: MIT
+* Website: <https://boomack.com>
+* Version: latest
+* Url: `https://download.boomack.com/boom/latest/$:ArchiveName$`
+* ArchiveName32Bit: `boom_x86.zip`
+* ArchiveName64Bit: `boom_x64.zip`
+* Exe: `boom.exe`
+
 ### Mastersign Data Science
 
 High level helpers for data science in Python with Pandas.
