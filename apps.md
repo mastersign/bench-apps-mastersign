@@ -123,12 +123,12 @@ Display local HTML file and refresh automatically when file changes.
 * LauncherIcon: `$:Dir$\node_modules\boomack\client\public\favicon.ico`
 * LauncherExecutable: `$:Dir$\boomack.cmd`
 
-### Boomack CLI Client
+### Boomack Client CLI (JS)
 
-* ID: `Mastersign.BoomackCli`
+* ID: `Mastersign.BoomackClientCliJs`
 * Typ: `node-package`
 * PackageName: `boomack-cli`
-* Label: Boomack CLI Client
+* Label: Boomack Client CLI (NodeJS)
 
 ### Mastersign Data Science
 
