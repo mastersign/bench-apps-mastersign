@@ -70,7 +70,7 @@ Window Manager for Windows 10
 * License: MIT
 * Label: WinMan
 * Website: <https://github.com/mastersign/Mastersign.WinMan>
-* Version: 1.17.1
+* Version: 1.17.2
 * Url: `https://github.com/mastersign/Mastersign.WinMan/releases/download/v$:Version$/$:ArchiveName$`
 * ArchiveName: `WinMan_v$:Version$.zip`
 * Exe: `WinManGui.exe`
