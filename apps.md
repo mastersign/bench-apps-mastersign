@@ -172,3 +172,12 @@ Plotting on a map of Germany with regions and districts.
 * Url: `http://down1.mastersign.de/bench/$:ResourceName$`
 * ResourceName: `mastersign_datascience_plot_germany-$:Version$-py3-none-any.whl`
 * SetupTestFile: `$:Dir$\lib\site-packages\mastersign\datascience\plot_germany\__init__.py`
+
+### PanoWallSync
+
+* ID: `Mastersign.PanoWallSync`
+* Version: latest
+* Url: `https://down1.mastersign.de/bench/$:ArchiveName$`
+* ArchiveName: `PanoWallSync.zip`
+* Launcher: `$:Label$`
+* Register: `false`
