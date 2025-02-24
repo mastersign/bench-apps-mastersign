@@ -96,9 +96,9 @@ Record and restore Windows display configurations.
 * License: MIT
 * Label: Display Manager
 * Website: <https://github.com/mastersign/Mastersign.DisplayManager>
-* Version: 1.0.1
+* Version: 1.1.1
 * Url: `https://github.com/mastersign/Mastersign.DisplayManager/releases/download/v$:Version$/$:ArchiveName$`
-* ArchiveName: `DisplayManager_v$:Version$.zip`
+* ArchiveName: `Mastersign.DisplayManager_v$:Version$.zip`
 * Exe: `DisplayMan.exe`
 
 ### HTML Display
