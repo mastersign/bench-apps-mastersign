@@ -78,14 +78,13 @@ Window Manager for Windows 10
 
 ### DashOps
 
-Generic Dashboard for executing scripts or shell commands and monitoring services.
+Control panel for script execution and monitoring on Windows.
 
 * ID: `Mastersign.DashOps`
 * Website: <https://github.com/mastersign/DashOps>
-* Version: 1.2.1
+* Version: 2.0.0
 * Url: `https://github.com/mastersign/DashOps/releases/download/v$:Version$/$:ArchiveName$`
-* ArchiveName: `dashops_v$:Version$.zip`
-* ArchivePath: `release`
+* ArchiveName: `DashOps_v$:Version$.zip`
 * Launcher: $:Label$
 
 ### Display Manager
